@@ -94,7 +94,7 @@
                 </div>
                 <div class="form-group">
                   <div class="col-md-12">
-                    <button type="button" class="btn btn-primary btn-block" id="load">Load!</button>
+                    <button type="button" class="btn btn-primary btn-block" id="load">dLoad!</button>
                   </div>
                 </div>
               </form>
